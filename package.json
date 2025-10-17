@@ -37,7 +37,7 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/GetStream/flat-list-mvcp",
+  "repository": "https://github.com/shotkee/flat-list-mvcp/tree/change-gradle-reps",
   "author": "vishtree <vishalnarkhede.iitd@gmail.com> (https://github.com/vishalnarkhede)",
   "license": "MIT",
   "bugs": {
